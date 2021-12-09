@@ -10,7 +10,7 @@
 <div class=WordSection1>
 
 <p class=MsoNormal><img width=624 height=351 id="Picture 1"
-src="https://ibb.co/gTt9T7Q"></p>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KqVhqGB/image001.jpg" alt="image001" border="0"></a>></p>
 
 <p class=MsoNormal><span style='font-size:20.0pt;line-height:115%;font-family:
 "Arial Rounded MT Bold",sans-serif'>This is a simple yet powerful addition to
