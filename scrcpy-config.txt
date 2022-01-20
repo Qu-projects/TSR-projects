@@ -1,0 +1,10 @@
+For 1gb ram use the following:
+scrcpy -m 540 -b 2M --max-fps 24 -n        	for 1gb ram warriors       [best for streamers]
+scrcpy -b 2M --max-fps 24 -n       		for original resolution only
+scrcpy -n					for no screen control from pc only
+
+
+#for 2g use this config
+#for 3gb and up use only scrcpy-command.bat attached in the TSR Project
+all are free to use under Quancea Documentaries 
+we are not liable to put up our liscence as its not open source.
