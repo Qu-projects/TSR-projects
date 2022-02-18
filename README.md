@@ -28,12 +28,7 @@ end device that’s quiet time consuming. Hence I did the work for you</span></p
 "Arial Rounded MT Bold",sans-serif'>Here you will get a config. First turn on
 usb debugging connect phone to pc or laptop and read that config. And there is
 a copy of obs portable which even runs smoothly on the lowest end pc. Download
-this </span><a
-href="http://51.210.180.51:8000/direct.php?data=AT2qgY0Ujxx6e%2FhN6swlR2apKUFPx%2B3En9C8oBwSi8zIaqAgorxKK22uy6gQYZhuSN59Ufga%2BZuBkBD4nfDEqZkkLpJd87D4G87lq%2FgP36n3X9P8Y6RDZc3Pn1WDuI6NajZPBFIJAL1HduDyR%2FL107ba7q%2B8w0%2FzKZeeNOvnk5yvUP4kluPqu%2F8oBQHA8ySpAZxhxA"><span
-style='font-size:20.0pt;line-height:115%;font-family:"Arial Rounded MT Bold",sans-serif'>TSR
-project</span></a><span style='font-size:20.0pt;line-height:115%;font-family:
-"Arial Rounded MT Bold",sans-serif'>.</span></p>
-
+this </span>
 </div>
 
 </body>
