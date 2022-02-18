@@ -27,8 +27,7 @@ end device that’s quiet time consuming. Hence I did the work for you</span></p
 <p class=MsoNormal><span style='font-size:20.0pt;line-height:115%;font-family:
 "Arial Rounded MT Bold",sans-serif'>Here you will get a config. First turn on
 usb debugging connect phone to pc or laptop and read that config. And there is
-a copy of obs portable which even runs smoothly on the lowest end pc. Download
-this </span>
+a copy of obs portable which even runs smoothly on the lowest end pc.</span>
 </div>
 
 </body>
